@@ -81,7 +81,10 @@ profiles:
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
+sandpaper: carpentries/sandpaper@enable-search
+varnish: carpentries/varnish@use-search-2023
+url: 'https://ErinBecker.github.io/shell-novice'
 
-url: 'https://swcarpentry.github.io/shell-novice'
+# url: 'https://swcarpentry.github.io/shell-novice'
 analytics: carpentries
 lang: en
